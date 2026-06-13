@@ -68,3 +68,7 @@
 
 The AI Study Assistant App has strong potential to become a comprehensive digital learning companion. Bridging the identified gaps through personalization, offline accessibility, ecosystem integration, and multimodal interaction will create a more engaging, flexible, and effective learning experience for students in modern educational environments.
 
+
+
+
+https://lucid.app/lucidchart/56f04279-4d0a-4bf4-967f-18703f7819b8/edit?viewport_loc=-1408%2C204%2C4539%2C2057%2C0_0&invitationId=inv_cb4b9d30-09dc-4e41-b10a-ca3ff997fbcd
